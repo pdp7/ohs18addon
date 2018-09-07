@@ -11,7 +11,7 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal hide)
+    (0 F.Cu signal)
     (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -723,7 +723,7 @@
       (xy -2.549664 -1.91989) (xy -2.469928 -1.911165) (xy -2.400256 -1.919918)) (layer B.SilkS) (width 0.01))
   )
 
-  (gr_text "Made by OSH Park" (at 13.97 16.51 90) (layer B.SilkS) (tstamp 5B91C7AA)
+  (gr_text "Made by OSH Park for OHS 2018" (at 13.716 22.86 90) (layer B.SilkS) (tstamp 5B91C7AA)
     (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
   (gr_line (start 18.02 40.28) (end 21.49 40.28) (layer Edge.Cuts) (width 0.15))
@@ -739,7 +739,7 @@
   (gr_text E (at 24.09 12.64 90) (layer B.SilkS) (tstamp 5BA1177F)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "DC26 SAO" (at 16.36 29 90) (layer B.SilkS) (tstamp 5BA1169A)
+  (gr_text "DC26 SAO" (at 16.36 29 90) (layer B.SilkS) (tstamp 5B91C96E)
     (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
   (gr_text "Design by Andrew Sowa (@junesphd)" (at 10.922 18.796 90) (layer B.SilkS)
